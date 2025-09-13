@@ -1,4 +1,4 @@
-# Hi, I'm Pupariaa
+# Hi, I'm Puparia
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,mysql,redis,express,html,css&perline=4)](https://skillicons.dev/)
 
